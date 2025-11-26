@@ -53,17 +53,6 @@
             "link-text": "View Details",
             "date": "Jan - Feb 2023",
             "keywords": "Security, MySQL, Network Security, Threat Detection"
-        },
-
-        {
-            "name": "Enterprise Risk Metrics Platform",
-            "image": "assets/img/llm.jpg",
-            "alt": "Enterprise architecture diagram showing risk metrics platform",
-            "description": "Developed a derivative metrics Agent based on Program of Thoughts prompt engineering, enabling large language models to generate executable Python scripts from natural language descriptions. Built an enterprise risk metrics auto-generation management platform with code persistence and effective reuse.",
-            "link": "projects.html",
-            "link-text": "View Details",
-            "date": "Jun - Sep 2025",
-            "keywords": "LLM, Python, Enterprise Software, Redis, Prompt Engineering"
         }
     ]
 }
