@@ -2,7 +2,7 @@
     "projects":[
         {
             "name": "Amazon Digital Music Recommender System",
-            "image": "assets/img/llm.jpg",
+            "image": "assets/img/amzmusic.jpg",
             "alt": "Machine learning model visualization showing recommendation system architecture",
             "description": "Built a comprehensive recommender system for Amazon Digital Music reviews using multiple machine learning approaches. Conducted extensive EDA on review data and implemented collaborative filtering, logistic regression, SVM, and deep learning models with PyTorch using TF-IDF for text feature extraction.",
             "link": "projects.html",
@@ -13,7 +13,7 @@
 
         {
             "name": "Mini RISC-V Operating System",
-            "image": "assets/img/dev.jpg",
+            "image": "assets/img/riscv.jpg",
             "alt": "RISC-V processor architecture diagram showing system components",
             "description": "Implemented a complete operating system from scratch in C based on QEMU simulator. Features include context switching with trapping, priority process scheduling, virtual memory management with three-level page tables, dynamic memory allocation, user-state program loading and execution, and thread forking.",
             "link": "projects.html",
@@ -24,7 +24,7 @@
 
         {
             "name": "TCP Connection Protocol Implementation",
-            "image": "assets/img/error.jpg",
+            "image": "assets/img/tcpproj.jpg",
             "alt": "Network protocol diagram showing TCP connection flow",
             "description": "Built a working TCP Connection Protocol with Sender and Receiver components in C++, achieving transmission speeds of 190 Mbit/s. Implemented message transmission mechanisms with functions for message waiting between network interfaces and routes.",
             "link": "projects.html",
@@ -35,7 +35,7 @@
 
         {
             "name": "Library Management System",
-            "image": "assets/img/image.jpeg",
+            "image": "assets/img/libsys.jpg",
             "alt": "Database schema diagram showing library management system structure",
             "description": "Developed a comprehensive library management system with both frontend and backend components using Python, PyQt5, and MySQL. Implemented layered architecture and modularization concepts with complete CRUD operations.",
             "link": "projects.html",
@@ -46,7 +46,7 @@
 
         {
             "name": "MySQL Honeypot Security System",
-            "image": "assets/img/Pic1.jpg",
+            "image": "assets/img/honeypot.jpg",
             "alt": "Network security diagram showing honeypot architecture",
             "description": "Created and deployed a honeypot on MySQL server to detect, prevent, and defend against network threats by luring, monitoring, and analyzing attacker activities. Collected and analyzed data about different types of security attacks to simulate and optimize network security strategies.",
             "link": "projects.html",
